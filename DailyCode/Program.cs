@@ -15,9 +15,15 @@ namespace DailyCode
             MergeLinkedLists merge = new MergeLinkedLists();
             AreWeAnagrams anagram = new AreWeAnagrams();
             SumPairs sumPair = new SumPairs();
+            Fibonacci fib = new Fibonacci();
 
             Console.WriteLine("Hello World!");
             Console.WriteLine();
+
+            Console.WriteLine("Fibonacci to get: ");
+            int n = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Fibonacci at  "+n+": " + fib.gimmeDatFibo(n));
+            Console.ReadLine();
 
             Console.WriteLine("Swapping! 5 and 10");
             swap.swap(5, 10);
