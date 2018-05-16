@@ -1,0 +1,11 @@
+C:\Users\Zapalac\source\repos\DailyCode\DailyCode\bin\Debug\netcoreapp2.0\DailyCode.deps.json
+C:\Users\Zapalac\source\repos\DailyCode\DailyCode\bin\Debug\netcoreapp2.0\DailyCode.runtimeconfig.json
+C:\Users\Zapalac\source\repos\DailyCode\DailyCode\bin\Debug\netcoreapp2.0\DailyCode.runtimeconfig.dev.json
+C:\Users\Zapalac\source\repos\DailyCode\DailyCode\bin\Debug\netcoreapp2.0\DailyCode.dll
+C:\Users\Zapalac\source\repos\DailyCode\DailyCode\bin\Debug\netcoreapp2.0\DailyCode.pdb
+C:\Users\Zapalac\source\repos\DailyCode\DailyCode\obj\Debug\netcoreapp2.0\DailyCode.csprojResolveAssemblyReference.cache
+C:\Users\Zapalac\source\repos\DailyCode\DailyCode\obj\Debug\netcoreapp2.0\DailyCode.csproj.CoreCompileInputs.cache
+C:\Users\Zapalac\source\repos\DailyCode\DailyCode\obj\Debug\netcoreapp2.0\DailyCode.AssemblyInfoInputs.cache
+C:\Users\Zapalac\source\repos\DailyCode\DailyCode\obj\Debug\netcoreapp2.0\DailyCode.AssemblyInfo.cs
+C:\Users\Zapalac\source\repos\DailyCode\DailyCode\obj\Debug\netcoreapp2.0\DailyCode.dll
+C:\Users\Zapalac\source\repos\DailyCode\DailyCode\obj\Debug\netcoreapp2.0\DailyCode.pdb
