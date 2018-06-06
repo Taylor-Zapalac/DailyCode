@@ -1,15 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace DailyCode.Helpers
 {
-    class PrintList
+    internal class PrintList
     {
-
         public void printList(List<String> incoming)
         {
-            foreach(String s in incoming)
+            foreach (String s in incoming)
             {
                 Console.WriteLine(s);
             }

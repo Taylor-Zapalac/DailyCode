@@ -1,16 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 
 namespace DailyCode.Helpers
 {
-    class FillRandomArray
+    internal class FillRandomArray
     {
-
         public int[] fillWithRandom(int howMany)
-        { 
-
+        {
             Random rand = new Random();
             int[] filledArray = Enumerable
                             .Repeat(0, howMany)
@@ -18,7 +14,6 @@ namespace DailyCode.Helpers
                             .ToArray();
 
             return filledArray;
-            
         }
     }
 }

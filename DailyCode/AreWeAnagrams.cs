@@ -1,12 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace DailyCode
 {
-    class AreWeAnagrams
+    internal class AreWeAnagrams
     {
-
         public Boolean anagramCheck(String one, String two)
         {
             char[] wordOne = one.ToLower().ToCharArray();

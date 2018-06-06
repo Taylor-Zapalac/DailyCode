@@ -1,10 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace DailyCode
 {
-    class SwapNoTemp
+    internal class SwapNoTemp
     {
         public void swap(int one, int two)
         {

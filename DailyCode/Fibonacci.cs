@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace DailyCode
+﻿namespace DailyCode
 {
-    class Fibonacci
+    internal class Fibonacci
     {
         //Fibonacci is F(n) = F(n-1) + F(n-2)
         //Get n in sequence.
@@ -15,7 +11,7 @@ namespace DailyCode
             long secondNumber = 1;
             long fiboNum = 0;
 
-            for(int x = 0; x <= index; x++)
+            for (int x = 0; x <= index; x++)
             {
                 //F(n) = F(n-1) + F(n-2)
                 fiboNum = firstNumber + secondNumber;
@@ -25,10 +21,7 @@ namespace DailyCode
                 secondNumber = fiboNum;
             }
 
-
-
             return fiboNum;
-
         }
     }
 }

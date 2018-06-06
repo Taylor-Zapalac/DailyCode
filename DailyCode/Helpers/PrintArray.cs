@@ -1,15 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace DailyCode.Helpers
 {
-    class PrintArray
+    internal class PrintArray
     {
-
         public void printOneDimension(String[] incoming)
         {
-            foreach(String s in incoming)
+            foreach (String s in incoming)
             {
                 Console.Write(s + ", ");
             }
